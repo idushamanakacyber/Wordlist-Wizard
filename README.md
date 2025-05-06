@@ -1,4 +1,4 @@
-# 🧙‍♂️ Wordlist Wizard
+![preview0](https://github.com/user-attachments/assets/fd67e936-d620-4157-b932-b57ede126c63)# 🧙‍♂️ Wordlist Wizard
 
 **Wordlist Wizard** is a powerful and beginner-friendly Python tool for generating custom password wordlists using a modern GUI built with Tkinter. Whether you're a cybersecurity enthusiast, penetration tester, or just curious, this tool helps you create highly flexible wordlists with emojis, themes, and a clean interface.
 
@@ -34,3 +34,12 @@ No external libraries needed – pure Python!
 
 🛑 If you have a low-performance device, do not enter a value greater than 5 for password length.
 The number of combinations increases exponentially!
+
+---
+
+## 🖼️ Preview
+
+
+
+![preview0](https://github.com/user-attachments/assets/90df4c8c-515c-48c9-91b4-a4749f8be237)
+
