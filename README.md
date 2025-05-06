@@ -38,7 +38,11 @@ No external libraries needed – pure Python!
 The number of combinations increases exponentially!
 
 ---
+## ✅ watch on youtube
 
+https://www.youtube.com/watch?v=_XMkagAbJTw
+
+---
 ## 🖼️ Preview
 
 
